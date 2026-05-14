@@ -1,5 +1,14 @@
-# Repository-Test
+---
+title: "README"
+output: html_document
+---
 
-Can edit this, describe what you are doing and add a description of all your files
+## Creator
 
--   `code/01_skeleton code to read data`: load data
+Aksharaa Ray
+
+-   Email: `adi.ray03@gmail.com`
+
+### File Description
+
+code/skeleton_code: Read in data
